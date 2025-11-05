@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue_accent">#007AFF</color>
+    <color name="green_accent">#34C759</color>
+
+    <color name="light_gray">#F2F2F7</color>
+    <color name="gray">#8E8E93</color>
+    <color name="dark_gray">#48484A</color>
+
+    <color name="reading_background">#FFFEF7</color>
+    <color name="reading_text">#1C1C1E</color>
+    <color name="reading_text_secondary">#8E8E93</color>
+
+    <color name="gradient_blue_start">#007AFF</color>
+    <color name="gradient_blue_end">#5AC8FA</color>
+    <color name="gradient_purple_start">#AF52DE</color>
+    <color name="gradient_purple_end">#FF2D92</color>
+    <color name="gradient_green_start">#34C759</color>
+    <color name="gradient_green_end">#30D158</color>
+    <color name="gradient_orange_start">#FF9500</color>
+    <color name="gradient_orange_end">#FF6B00</color>
+    <color name="gradient_red_start">#FF3B30</color>
+    <color name="gradient_red_end">#FF2D92</color>
+    <color name="blue_accent_dark">#0A66E5</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="light_gray_10">#1AF0F0F0</color>
+    <color name="primary">#007AFF</color>
+    <color name="secondary">#34C759</color>
+    <color name="background">#FFFFFF</color>
+    <color name="on_background">#000000</color>
+    <color name="status_bar">#F8F8F8</color>
+    <color name="navigation_bar">#FFFFFF</color>
+</resources>

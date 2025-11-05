@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ReadOnline</string>
+
+    <!-- auth -->
+    <string name="login_title">Вход</string>
+    <string name="register_title">Регистрация</string>
+    <string name="email">Электронная почта</string>
+    <string name="hint_password">Пароль</string>
+    <string name="display_name">Имя</string>
+    <string name="button_login">Войти</string>
+    <string name="button_register">Зарегистрироваться</string>
+    <string name="no_account_register">Нет аккаунта? Зарегистрироваться</string>
+
+    <!-- main -->
+    <string name="hint_search">Поиск книг...</string>
+    <string name="book_added">Книга добавлена</string>
+    <string name="searching">Поиск...</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="found_result">Найден результат: %1$s</string>
+    <string name="error_occurred">Ошибка</string>
+    <string name="unknown">Неизвестно</string>
+
+    <!-- reading -->
+    <string name="start_progress">Показать прогресс</string>
+    <string name="open_external">Открыть внешним приложением</string>
+    <string name="open_with">Открыть с помощью</string>
+
+    <!-- common -->
+    <string name="invalid_input">Введите корректные данные</string>
+    <string name="invalid_credentials">Неверные данные</string>
+    <string name="user_exists">Пользователь уже существует</string>
+    <string name="book">Книга</string>
+    <string name="add_book">Добавить книгу</string>
+    <string name="category">Категории</string>
+    <string name="recom">Рекомендации</string>
+    <string name="all_but">Все</string>
+    <string name="my_lib">Моя библиотека</string>
+    <string name="change_view">Изметить вид</string>
+    <string name="rep_password">Повторите пароль</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_download">Скачать</string>
+    <string name="button_open">Открыть</string>
+</resources>

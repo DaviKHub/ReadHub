@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645717135879",
+    "project_id": "readonline-ad12e2f6",
+    "storage_bucket": "readonline-ad12e2f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645717135879:android:af1ac946fa106ab8e850a2",
+        "android_client_info": {
+          "package_name": "com.kukareku.readonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfzFOGedFAeWUMsBN23qD20-d_UsF_gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
